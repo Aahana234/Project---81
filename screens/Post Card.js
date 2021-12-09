@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { View, Text } from "react-native";
-export default class StoryCard extends Component {
+export default class PostCard extends Component {
   render() {
     return (
       <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-        <Text>StoryCard</Text>
+        <Text>PostCard</Text>
       </View>
     );
   }
