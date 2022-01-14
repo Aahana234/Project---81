@@ -33,4 +33,4 @@ const BottomTabNavigator=()=>{
   )
 }
 
-export default BottomTabNavigator();
+export default BottomTabNavigator;
